@@ -15,11 +15,18 @@
     ]
   },
   "dependencies": {
+    "@astrojs/react": "^5.0.5",
     "@astrojs/rss": "^4.0.18",
     "@lucide/astro": "^1.11.0",
+    "@remotion/cli": "^4.0.465",
+    "@remotion/player": "^4.0.465",
+    "@remotion/renderer": "^4.0.465",
     "@vercel/analytics": "^2.0.1",
     "astro": "^6.1.9",
     "js-yaml": "^4.1.1",
+    "react": "^19.2.6",
+    "react-dom": "^19.2.6",
+    "remotion": "^4.0.465",
     "sharp": "0.34.5",
     "simple-icons": "^16.18.0"
   },
