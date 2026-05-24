@@ -1,5 +1,7 @@
 # clawd.bot Landing Page
 
+- Related repos: `~/remotion-videos` (Remotion 4 video compositions, private).
+
 ## Data Files
 
 ### Showcase (`src/data/showcase.json`)
